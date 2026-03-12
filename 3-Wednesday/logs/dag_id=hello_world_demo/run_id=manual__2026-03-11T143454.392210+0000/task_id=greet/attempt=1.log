@@ -1,0 +1,15 @@
+[2026-03-11T14:34:56.262+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: hello_world_demo.greet manual__2026-03-11T14:34:54.392210+00:00 [queued]>
+[2026-03-11T14:34:56.293+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: hello_world_demo.greet manual__2026-03-11T14:34:54.392210+00:00 [queued]>
+[2026-03-11T14:34:56.293+0000] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2026-03-11T14:34:56.337+0000] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): greet> on 2026-03-11 14:34:54.392210+00:00
+[2026-03-11T14:34:56.350+0000] {standard_task_runner.py:57} INFO - Started process 1085 to run task
+[2026-03-11T14:34:56.359+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'hello_world_demo', 'greet', 'manual__2026-03-11T14:34:54.392210+00:00', '--job-id', '5', '--raw', '--subdir', 'DAGS_FOLDER/hello_world_dag.py', '--cfg-path', '/tmp/tmp1a8rk1ub']
+[2026-03-11T14:34:56.371+0000] {standard_task_runner.py:85} INFO - Job 5: Subtask greet
+[2026-03-11T14:34:56.541+0000] {task_command.py:416} INFO - Running <TaskInstance: hello_world_demo.greet manual__2026-03-11T14:34:54.392210+00:00 [running]> on host 950babafa736
+[2026-03-11T14:34:56.767+0000] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='revature_dev_team' AIRFLOW_CTX_DAG_ID='hello_world_demo' AIRFLOW_CTX_TASK_ID='greet' AIRFLOW_CTX_EXECUTION_DATE='2026-03-11T14:34:54.392210+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-03-11T14:34:54.392210+00:00'
+[2026-03-11T14:34:56.769+0000] {logging_mixin.py:154} INFO - Hello from Airflow!
+[2026-03-11T14:34:56.770+0000] {logging_mixin.py:154} INFO - We should see this message appear in our task logs
+[2026-03-11T14:34:56.770+0000] {python.py:194} INFO - Done. Returned value was: greeting_complete
+[2026-03-11T14:34:56.852+0000] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=hello_world_demo, task_id=greet, execution_date=20260311T143454, start_date=20260311T143456, end_date=20260311T143456
+[2026-03-11T14:34:56.895+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2026-03-11T14:34:56.929+0000] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check

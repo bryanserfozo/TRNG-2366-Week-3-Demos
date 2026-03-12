@@ -1,0 +1,14 @@
+[2026-03-11T15:01:54.706+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: sample_dag.sometimes_fails scheduled__2026-03-01T00:04:00+00:00 [queued]>
+[2026-03-11T15:01:54.829+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: sample_dag.sometimes_fails scheduled__2026-03-01T00:04:00+00:00 [queued]>
+[2026-03-11T15:01:54.837+0000] {taskinstance.py:1361} INFO - Starting attempt 1 of 1
+[2026-03-11T15:01:55.532+0000] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): sometimes_fails> on 2026-03-01 00:04:00+00:00
+[2026-03-11T15:01:55.618+0000] {standard_task_runner.py:57} INFO - Started process 2048 to run task
+[2026-03-11T15:01:55.812+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'sample_dag', 'sometimes_fails', 'scheduled__2026-03-01T00:04:00+00:00', '--job-id', '28', '--raw', '--subdir', 'DAGS_FOLDER/sample_dag.py', '--cfg-path', '/tmp/tmphh9zzftr']
+[2026-03-11T15:01:55.876+0000] {standard_task_runner.py:85} INFO - Job 28: Subtask sometimes_fails
+[2026-03-11T15:01:56.702+0000] {task_command.py:416} INFO - Running <TaskInstance: sample_dag.sometimes_fails scheduled__2026-03-01T00:04:00+00:00 [running]> on host 950babafa736
+[2026-03-11T15:01:57.814+0000] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='sample_dag' AIRFLOW_CTX_TASK_ID='sometimes_fails' AIRFLOW_CTX_EXECUTION_DATE='2026-03-01T00:04:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2026-03-01T00:04:00+00:00'
+[2026-03-11T15:01:57.829+0000] {logging_mixin.py:154} INFO - This task has a 30 percent chance to fail
+[2026-03-11T15:01:57.830+0000] {python.py:194} INFO - Done. Returned value was: None
+[2026-03-11T15:01:57.903+0000] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=sample_dag, task_id=sometimes_fails, execution_date=20260301T000400, start_date=20260311T150154, end_date=20260311T150157
+[2026-03-11T15:01:58.080+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2026-03-11T15:01:58.475+0000] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check
