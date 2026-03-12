@@ -1,0 +1,1632 @@
+[2026-03-12T19:38:26.208+0000] {processor.py:157} INFO - Started process (PID=2433) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:38:26.209+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:38:26.210+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:38:26.210+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:38:26.267+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:38:26.621+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:38:26.621+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:38:26.643+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:38:26.642+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:38:26.727+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.529 seconds
+[2026-03-12T19:38:57.553+0000] {processor.py:157} INFO - Started process (PID=2448) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:38:57.556+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:38:57.558+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:38:57.557+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:38:57.588+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:38:57.658+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:38:57.658+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:38:57.694+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:38:57.694+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:38:57.772+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.229 seconds
+[2026-03-12T19:39:28.082+0000] {processor.py:157} INFO - Started process (PID=2463) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:39:28.095+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:39:28.096+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:39:28.096+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:39:28.112+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:39:28.130+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:39:28.130+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:39:28.149+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:39:28.149+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:39:28.189+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.113 seconds
+[2026-03-12T19:39:36.343+0000] {processor.py:157} INFO - Started process (PID=2473) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:39:36.352+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:39:36.354+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:39:36.354+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:39:36.391+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:39:36.434+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:39:36.433+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:39:36.497+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:39:36.496+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:39:36.563+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.228 seconds
+[2026-03-12T19:40:05.785+0000] {processor.py:157} INFO - Started process (PID=2488) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:05.786+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:40:05.787+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:05.787+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:05.803+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:05.948+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:05.948+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:40:05.960+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:05.960+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:40:05.986+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.206 seconds
+[2026-03-12T19:40:14.201+0000] {processor.py:157} INFO - Started process (PID=2503) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:14.202+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:40:14.202+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:14.202+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:14.218+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:14.234+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:14.234+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:40:14.258+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:14.257+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:40:14.310+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.114 seconds
+[2026-03-12T19:40:24.282+0000] {processor.py:157} INFO - Started process (PID=2508) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:24.283+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:40:24.284+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:24.284+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:24.303+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:24.332+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:24.331+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:40:24.358+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:24.358+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:40:24.428+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.155 seconds
+[2026-03-12T19:40:27.453+0000] {processor.py:157} INFO - Started process (PID=2513) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:27.459+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:40:27.460+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:27.460+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:27.485+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:27.518+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:27.517+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:40:27.594+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:27.593+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:40:27.660+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.214 seconds
+[2026-03-12T19:40:28.761+0000] {processor.py:157} INFO - Started process (PID=2518) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:28.763+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:40:28.768+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:28.768+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:28.803+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:28.838+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:28.837+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:40:28.886+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:28.885+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:40:28.938+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.191 seconds
+[2026-03-12T19:40:40.046+0000] {processor.py:157} INFO - Started process (PID=2528) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:40.059+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:40:40.060+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:40.060+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:40.080+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:40:40.109+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:40.107+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:40:40.133+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:40:40.133+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:40:40.180+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.147 seconds
+[2026-03-12T19:41:10.472+0000] {processor.py:157} INFO - Started process (PID=2543) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:41:10.478+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:41:10.479+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:41:10.479+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:41:10.528+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:41:10.886+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:41:10.886+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:41:10.903+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:41:10.903+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:41:10.971+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.507 seconds
+[2026-03-12T19:41:17.628+0000] {processor.py:157} INFO - Started process (PID=2553) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:41:17.629+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:41:17.630+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:41:17.630+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:41:17.649+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:41:17.669+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:41:17.669+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:41:17.689+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:41:17.689+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:41:17.727+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.105 seconds
+[2026-03-12T19:41:25.687+0000] {processor.py:157} INFO - Started process (PID=2558) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:41:25.690+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:41:25.692+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:41:25.691+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:41:25.706+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:41:25.721+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:41:25.721+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:41:25.750+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:41:25.749+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:41:25.804+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.122 seconds
+[2026-03-12T19:41:42.986+0000] {processor.py:157} INFO - Started process (PID=2573) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:41:42.988+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:41:42.989+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:41:42.989+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:41:43.019+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:41:43.084+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:41:43.083+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:41:43.119+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:41:43.118+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:41:43.181+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.206 seconds
+[2026-03-12T19:42:00.222+0000] {processor.py:157} INFO - Started process (PID=2578) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:00.223+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:42:00.225+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:00.225+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:00.248+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:00.317+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:00.316+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:42:00.339+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:00.339+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:42:00.389+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.172 seconds
+[2026-03-12T19:42:02.327+0000] {processor.py:157} INFO - Started process (PID=2583) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:02.328+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:42:02.329+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:02.329+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:02.345+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:02.381+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:02.381+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:42:02.395+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:02.395+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:42:02.436+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.115 seconds
+[2026-03-12T19:42:10.481+0000] {processor.py:157} INFO - Started process (PID=2588) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:10.483+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:42:10.484+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:10.484+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:10.512+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:10.572+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:10.571+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:42:10.600+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:10.600+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:42:10.637+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.160 seconds
+[2026-03-12T19:42:18.875+0000] {processor.py:157} INFO - Started process (PID=2603) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:18.876+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:42:18.877+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:18.876+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:18.884+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:18.882+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 36
+    def choos
+             ^
+SyntaxError: invalid syntax
+[2026-03-12T19:42:18.884+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:18.907+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.039 seconds
+[2026-03-12T19:42:25.939+0000] {processor.py:157} INFO - Started process (PID=2608) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:25.940+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:42:25.941+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:25.940+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:25.945+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:25.943+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 36
+    def choose_load_strategy()
+                              ^
+SyntaxError: expected ':'
+[2026-03-12T19:42:25.945+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:25.967+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.032 seconds
+[2026-03-12T19:42:30.086+0000] {processor.py:157} INFO - Started process (PID=2613) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:30.101+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:42:30.102+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:30.102+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:30.147+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:30.179+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:30.179+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:42:30.216+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:30.216+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:42:30.278+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.212 seconds
+[2026-03-12T19:42:36.105+0000] {processor.py:157} INFO - Started process (PID=2618) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:36.106+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:42:36.107+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:36.107+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:36.121+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:36.139+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:36.138+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:42:36.154+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:36.154+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:42:36.196+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.095 seconds
+[2026-03-12T19:42:46.434+0000] {processor.py:157} INFO - Started process (PID=2633) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:46.435+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:42:46.436+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:46.436+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:46.440+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:46.439+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 41
+    with DAG(
+    ^^^^
+IndentationError: expected an indented block after function definition on line 36
+[2026-03-12T19:42:46.440+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:46.465+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.036 seconds
+[2026-03-12T19:42:49.465+0000] {processor.py:157} INFO - Started process (PID=2638) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:49.466+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:42:49.467+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:49.467+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:49.471+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:49.470+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 41
+    with DAG(
+    ^^^^
+IndentationError: expected an indented block after function definition on line 36
+[2026-03-12T19:42:49.472+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:49.493+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.033 seconds
+[2026-03-12T19:42:54.548+0000] {processor.py:157} INFO - Started process (PID=2643) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:54.550+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:42:54.553+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:54.552+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:54.599+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:54.939+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:54.939+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:42:54.985+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:54.985+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:42:55.040+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.498 seconds
+[2026-03-12T19:42:56.585+0000] {processor.py:157} INFO - Started process (PID=2648) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:56.587+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:42:56.588+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:56.588+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:56.595+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:56.593+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 37
+    ti = context[]
+                 ^
+SyntaxError: invalid syntax
+[2026-03-12T19:42:56.595+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:56.625+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.046 seconds
+[2026-03-12T19:42:59.602+0000] {processor.py:157} INFO - Started process (PID=2653) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:59.603+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:42:59.603+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:59.603+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:59.618+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:42:59.635+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:59.635+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:42:59.660+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:42:59.660+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:42:59.708+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.110 seconds
+[2026-03-12T19:43:04.758+0000] {processor.py:157} INFO - Started process (PID=2658) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:04.760+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:43:04.761+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:04.760+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:04.765+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:04.764+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 38
+    total_records = 
+                    ^
+SyntaxError: invalid syntax
+[2026-03-12T19:43:04.766+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:04.790+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.037 seconds
+[2026-03-12T19:43:14.971+0000] {processor.py:157} INFO - Started process (PID=2673) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:14.973+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:43:14.974+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:14.974+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:14.988+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:15.000+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:15.000+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:43:15.016+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:15.016+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:43:15.063+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.096 seconds
+[2026-03-12T19:43:21.047+0000] {processor.py:157} INFO - Started process (PID=2678) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:21.048+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:43:21.049+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:21.049+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:21.074+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:21.098+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:21.098+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:43:21.117+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:21.116+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:43:21.156+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.113 seconds
+[2026-03-12T19:43:22.124+0000] {processor.py:157} INFO - Started process (PID=2683) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:22.126+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:43:22.127+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:22.126+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:22.132+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:22.131+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 38
+    total_records = ti.xcom_pull(task_ids=)
+                                          ^
+SyntaxError: invalid syntax
+[2026-03-12T19:43:22.134+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:22.175+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.054 seconds
+[2026-03-12T19:43:23.203+0000] {processor.py:157} INFO - Started process (PID=2688) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:23.204+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:43:23.206+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:23.205+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:23.223+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:23.253+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:23.252+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:43:23.277+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:23.276+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:43:23.325+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.129 seconds
+[2026-03-12T19:43:30.272+0000] {processor.py:157} INFO - Started process (PID=2693) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:30.284+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:43:30.285+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:30.285+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:30.332+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:30.412+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:30.412+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:43:30.449+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:30.448+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:43:30.537+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.271 seconds
+[2026-03-12T19:43:31.453+0000] {processor.py:157} INFO - Started process (PID=2698) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:31.457+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:43:31.458+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:31.458+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:31.466+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:31.464+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 38
+    total_records = ti.xcom_pull(task_ids="validate")[]
+                                                      ^
+SyntaxError: invalid syntax
+[2026-03-12T19:43:31.467+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:31.537+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.090 seconds
+[2026-03-12T19:43:38.495+0000] {processor.py:157} INFO - Started process (PID=2703) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:38.496+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:43:38.496+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:38.496+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:38.511+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:38.545+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:38.545+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:43:38.561+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:38.561+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:43:38.596+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.106 seconds
+[2026-03-12T19:43:49.701+0000] {processor.py:157} INFO - Started process (PID=2718) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:49.703+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:43:49.704+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:49.704+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:49.739+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:49.760+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:49.760+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:43:49.777+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:49.777+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:43:49.824+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.134 seconds
+[2026-03-12T19:43:56.779+0000] {processor.py:157} INFO - Started process (PID=2723) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:56.781+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:43:56.790+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:56.783+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:56.847+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:56.926+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:56.926+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:43:56.963+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:56.962+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:43:57.039+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.268 seconds
+[2026-03-12T19:43:58.093+0000] {processor.py:157} INFO - Started process (PID=2728) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:58.095+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:43:58.095+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:58.095+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:58.100+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:43:58.099+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 41
+    if 
+       ^
+SyntaxError: invalid syntax
+[2026-03-12T19:43:58.100+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:43:58.133+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.045 seconds
+[2026-03-12T19:44:03.131+0000] {processor.py:157} INFO - Started process (PID=2733) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:03.132+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:44:03.133+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:03.132+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:03.139+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:03.137+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 41
+    if (total_records > 10000)
+                              ^
+SyntaxError: expected ':'
+[2026-03-12T19:44:03.140+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:03.165+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.037 seconds
+[2026-03-12T19:44:05.195+0000] {processor.py:157} INFO - Started process (PID=2738) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:05.196+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:44:05.196+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:05.196+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:05.201+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:05.200+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 41
+    if (total_records > 10000){
+                              ^
+SyntaxError: invalid syntax
+[2026-03-12T19:44:05.202+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:05.224+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.032 seconds
+[2026-03-12T19:44:08.237+0000] {processor.py:157} INFO - Started process (PID=2743) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:08.238+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:44:08.240+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:08.239+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:08.245+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:08.244+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 41
+    if (total_records > 10000){
+                              ^
+SyntaxError: invalid syntax
+[2026-03-12T19:44:08.246+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:08.285+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.059 seconds
+[2026-03-12T19:44:15.351+0000] {processor.py:157} INFO - Started process (PID=2753) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:15.368+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:44:15.370+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:15.369+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:15.375+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:15.373+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 41
+    if (total_records > 10000){
+                              ^
+SyntaxError: invalid syntax
+[2026-03-12T19:44:15.376+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:15.412+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.065 seconds
+[2026-03-12T19:44:17.449+0000] {processor.py:157} INFO - Started process (PID=2763) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:17.451+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:44:17.453+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:17.452+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:17.460+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:17.459+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 41
+    if (total_records > 10000){
+                              ^
+SyntaxError: '{' was never closed
+[2026-03-12T19:44:17.461+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:17.494+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.048 seconds
+[2026-03-12T19:44:20.485+0000] {processor.py:157} INFO - Started process (PID=2768) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:20.487+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:44:20.488+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:20.488+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:20.511+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:20.720+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:20.720+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:44:20.742+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:20.742+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:44:20.766+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.289 seconds
+[2026-03-12T19:44:22.569+0000] {processor.py:157} INFO - Started process (PID=2773) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:22.571+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:44:22.573+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:22.572+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:22.581+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:22.580+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 43
+    else
+        ^
+SyntaxError: expected ':'
+[2026-03-12T19:44:22.582+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:22.632+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.071 seconds
+[2026-03-12T19:44:32.726+0000] {processor.py:157} INFO - Started process (PID=2778) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:32.728+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:44:32.730+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:32.730+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:32.750+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:32.778+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:32.778+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:44:32.806+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:32.805+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:44:32.858+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.140 seconds
+[2026-03-12T19:44:51.146+0000] {processor.py:157} INFO - Started process (PID=2793) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:51.148+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:44:51.150+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:51.150+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:51.207+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:51.300+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:51.297+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:44:51.337+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:51.337+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:44:51.420+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.285 seconds
+[2026-03-12T19:44:56.350+0000] {processor.py:157} INFO - Started process (PID=2798) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:56.364+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:44:56.366+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:56.365+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:56.396+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:56.453+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:56.452+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:44:56.468+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:56.468+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:44:56.500+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.160 seconds
+[2026-03-12T19:44:57.568+0000] {processor.py:157} INFO - Started process (PID=2803) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:57.571+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:44:57.576+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:57.575+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:57.613+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:44:57.608+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 87, in <module>
+    cho
+NameError: name 'cho' is not defined. Did you mean: 'chr'?
+[2026-03-12T19:44:57.615+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:44:57.677+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.132 seconds
+[2026-03-12T19:45:00.626+0000] {processor.py:157} INFO - Started process (PID=2808) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:00.628+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:45:00.629+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:00.629+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:00.644+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:00.641+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 87, in <module>
+    choose_load_strategy_task
+NameError: name 'choose_load_strategy_task' is not defined. Did you mean: 'choose_load_strategy'?
+[2026-03-12T19:45:00.646+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:00.681+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.062 seconds
+[2026-03-12T19:45:06.663+0000] {processor.py:157} INFO - Started process (PID=2813) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:06.665+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:45:06.666+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:06.666+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:06.677+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:06.675+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 87, in <module>
+    choose_load_strategy_task = BranchPythonOperator(
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 420, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2026-03-12T19:45:06.677+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:06.706+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.050 seconds
+[2026-03-12T19:45:20.849+0000] {processor.py:157} INFO - Started process (PID=2828) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:20.856+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:45:20.860+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:20.860+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:20.881+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:20.878+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 87, in <module>
+    choose_load_strategy_task = BranchPythonOperator(
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 420, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2026-03-12T19:45:20.881+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:20.928+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.087 seconds
+[2026-03-12T19:45:28.016+0000] {processor.py:157} INFO - Started process (PID=2833) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:28.025+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:45:28.029+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:28.029+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:28.043+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:28.040+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 87, in <module>
+    choose_load_strategy_task = BranchPythonOperator(
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 420, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2026-03-12T19:45:28.044+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:28.080+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.068 seconds
+[2026-03-12T19:45:30.049+0000] {processor.py:157} INFO - Started process (PID=2838) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:30.050+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:45:30.051+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:30.050+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:30.058+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:30.056+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 90
+    )
+    ^
+SyntaxError: positional argument follows keyword argument
+[2026-03-12T19:45:30.058+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:30.087+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.047 seconds
+[2026-03-12T19:45:35.126+0000] {processor.py:157} INFO - Started process (PID=2843) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:35.127+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:45:35.128+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:35.128+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:35.143+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:35.141+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 90
+    )
+    ^
+SyntaxError: invalid syntax
+[2026-03-12T19:45:35.144+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:35.203+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.095 seconds
+[2026-03-12T19:45:37.158+0000] {processor.py:157} INFO - Started process (PID=2848) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:37.159+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:45:37.161+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:37.160+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:37.178+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:37.193+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:37.193+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:45:37.214+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:37.213+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:45:37.245+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.091 seconds
+[2026-03-12T19:45:42.279+0000] {processor.py:157} INFO - Started process (PID=2853) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:42.280+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:45:42.281+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:42.281+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:42.298+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:42.319+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:42.319+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:45:42.345+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:42.345+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:45:42.391+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.116 seconds
+[2026-03-12T19:45:47.461+0000] {processor.py:157} INFO - Started process (PID=2863) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:47.462+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:45:47.463+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:47.463+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:47.488+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:47.705+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:47.704+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:45:47.737+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:47.737+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:45:47.786+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.333 seconds
+[2026-03-12T19:45:53.712+0000] {processor.py:157} INFO - Started process (PID=2873) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:53.713+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:45:53.714+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:53.714+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:53.727+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:53.743+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:53.743+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:45:53.771+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:53.771+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:45:53.811+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.104 seconds
+[2026-03-12T19:45:59.768+0000] {processor.py:157} INFO - Started process (PID=2878) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:59.780+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:45:59.782+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:59.781+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:59.788+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:45:59.787+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 46
+    def 
+        ^
+SyntaxError: invalid syntax
+[2026-03-12T19:45:59.789+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:45:59.825+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.066 seconds
+[2026-03-12T19:46:04.809+0000] {processor.py:157} INFO - Started process (PID=2883) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:46:04.821+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:46:04.823+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:46:04.822+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:46:04.830+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:46:04.828+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 52
+    with DAG(
+    ^^^^
+IndentationError: expected an indented block after function definition on line 46
+[2026-03-12T19:46:04.830+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:46:04.876+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.080 seconds
+[2026-03-12T19:46:06.909+0000] {processor.py:157} INFO - Started process (PID=2888) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:46:06.911+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:46:06.912+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:46:06.912+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:46:06.952+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:46:06.983+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:46:06.983+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:46:07.027+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:46:07.026+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:46:07.079+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.175 seconds
+[2026-03-12T19:46:37.306+0000] {processor.py:157} INFO - Started process (PID=2903) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:46:37.309+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:46:37.312+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:46:37.311+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:46:37.331+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:46:37.383+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:46:37.383+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:46:37.410+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:46:37.410+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:46:37.455+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.155 seconds
+[2026-03-12T19:46:54.703+0000] {processor.py:157} INFO - Started process (PID=2918) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:46:54.705+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:46:54.706+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:46:54.705+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:46:54.726+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:46:54.743+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:46:54.743+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:46:54.775+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:46:54.775+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:46:54.821+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.125 seconds
+[2026-03-12T19:47:00.854+0000] {processor.py:157} INFO - Started process (PID=2923) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:00.857+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:47:00.858+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:00.858+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:00.893+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:00.920+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:00.920+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:47:00.942+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:00.941+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:47:00.989+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.146 seconds
+[2026-03-12T19:47:09.936+0000] {processor.py:157} INFO - Started process (PID=2928) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:09.939+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:47:09.943+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:09.941+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:09.983+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:10.012+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:10.012+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:47:10.032+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:10.032+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:47:10.060+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.130 seconds
+[2026-03-12T19:47:14.092+0000] {processor.py:157} INFO - Started process (PID=2933) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:14.094+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:47:14.095+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:14.095+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:14.103+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:14.100+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 99
+    load_simple_task = 
+                       ^
+SyntaxError: invalid syntax
+[2026-03-12T19:47:14.106+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:14.159+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.071 seconds
+[2026-03-12T19:47:22.300+0000] {processor.py:157} INFO - Started process (PID=2948) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:22.300+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:47:22.301+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:22.301+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:22.311+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:22.308+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 99, in <module>
+    load_simple_task = PythonOperator(
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 420, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2026-03-12T19:47:22.311+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:22.341+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.044 seconds
+[2026-03-12T19:47:25.321+0000] {processor.py:157} INFO - Started process (PID=2953) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:25.322+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:47:25.324+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:25.323+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:25.338+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:25.337+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 99, in <module>
+    load_simple_task = PythonOperator(
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 420, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2026-03-12T19:47:25.338+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:25.361+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.043 seconds
+[2026-03-12T19:47:34.442+0000] {processor.py:157} INFO - Started process (PID=2958) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:34.458+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:47:34.458+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:34.458+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:34.468+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:34.466+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 99, in <module>
+    load_simple_task = PythonOperator(
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 420, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2026-03-12T19:47:34.468+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:34.495+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.057 seconds
+[2026-03-12T19:47:37.475+0000] {processor.py:157} INFO - Started process (PID=2963) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:37.477+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:47:37.479+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:37.479+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:37.492+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:37.490+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 102
+    )
+    ^
+SyntaxError: positional argument follows keyword argument
+[2026-03-12T19:47:37.492+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:37.527+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.056 seconds
+[2026-03-12T19:47:47.597+0000] {processor.py:157} INFO - Started process (PID=2968) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:47.598+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:47:47.600+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:47.599+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:47.606+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:47.605+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 102
+    )
+    ^
+SyntaxError: positional argument follows keyword argument
+[2026-03-12T19:47:47.607+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:47.651+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.060 seconds
+[2026-03-12T19:47:50.809+0000] {processor.py:157} INFO - Started process (PID=2983) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:50.810+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:47:50.812+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:50.811+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:50.832+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:50.829+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 101, in <module>
+    python_callable = loa
+NameError: name 'loa' is not defined
+[2026-03-12T19:47:50.836+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:50.863+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.066 seconds
+[2026-03-12T19:47:51.812+0000] {processor.py:157} INFO - Started process (PID=2988) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:51.815+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:47:51.816+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:51.815+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:51.835+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:52.020+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:52.020+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:47:52.030+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:52.030+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:47:52.056+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.247 seconds
+[2026-03-12T19:47:57.938+0000] {processor.py:157} INFO - Started process (PID=2993) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:57.939+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:47:57.940+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:57.940+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:57.952+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:47:57.950+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 104, in <module>
+    load_simple_task = PythonOperator(
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 177, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 812, in __init__
+    task_group.add(self)
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/utils/task_group.py", line 231, in add
+    raise DuplicateTaskIdFound(f"{node_type} id '{key}' has already been added to the DAG")
+airflow.exceptions.DuplicateTaskIdFound: Task id 'load_simple' has already been added to the DAG
+[2026-03-12T19:47:57.953+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:47:57.980+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.045 seconds
+[2026-03-12T19:48:23.209+0000] {processor.py:157} INFO - Started process (PID=3008) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:48:23.222+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:48:23.224+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:48:23.223+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:48:23.244+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:48:23.241+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 104, in <module>
+    load_partitioned_task = PythonOperator(
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 177, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 812, in __init__
+    task_group.add(self)
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/utils/task_group.py", line 231, in add
+    raise DuplicateTaskIdFound(f"{node_type} id '{key}' has already been added to the DAG")
+airflow.exceptions.DuplicateTaskIdFound: Task id 'load_simple' has already been added to the DAG
+[2026-03-12T19:48:23.245+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:48:23.285+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.080 seconds
+[2026-03-12T19:48:30.366+0000] {processor.py:157} INFO - Started process (PID=3013) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:48:30.367+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:48:30.368+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:48:30.367+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:48:30.403+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:48:30.593+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:48:30.593+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:48:30.610+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:48:30.610+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:48:30.644+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.292 seconds
+[2026-03-12T19:48:34.699+0000] {processor.py:157} INFO - Started process (PID=3018) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:48:34.701+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:48:34.702+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:48:34.702+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:48:34.734+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:48:34.760+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:48:34.759+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:48:34.798+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:48:34.798+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:48:34.858+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.165 seconds
+[2026-03-12T19:48:58.173+0000] {processor.py:157} INFO - Started process (PID=3033) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:48:58.190+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:48:58.191+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:48:58.191+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:48:58.207+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:48:58.225+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:48:58.225+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:48:58.253+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:48:58.253+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:48:58.310+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.148 seconds
+[2026-03-12T19:49:00.184+0000] {processor.py:157} INFO - Started process (PID=3038) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:00.185+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:49:00.186+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:00.186+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:00.208+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:00.223+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:00.223+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:49:00.241+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:00.241+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:49:00.293+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.116 seconds
+[2026-03-12T19:49:02.209+0000] {processor.py:157} INFO - Started process (PID=3043) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:02.211+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:49:02.212+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:02.212+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:02.238+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:02.313+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:02.313+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:49:02.338+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:02.338+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:49:02.370+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.169 seconds
+[2026-03-12T19:49:30.598+0000] {processor.py:157} INFO - Started process (PID=3058) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:30.600+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:49:30.601+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:30.600+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:30.650+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:30.682+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:30.681+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:49:30.743+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:30.742+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:49:30.864+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.281 seconds
+[2026-03-12T19:49:37.963+0000] {processor.py:157} INFO - Started process (PID=3063) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:37.965+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:49:37.967+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:37.966+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:37.997+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:38.028+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:38.027+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:49:38.057+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:38.056+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:49:38.105+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.148 seconds
+[2026-03-12T19:49:40.977+0000] {processor.py:157} INFO - Started process (PID=3068) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:40.978+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:49:40.979+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:40.979+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:40.993+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:41.007+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:41.006+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:49:41.025+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:41.025+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:49:41.066+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.093 seconds
+[2026-03-12T19:49:57.193+0000] {processor.py:157} INFO - Started process (PID=3083) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:57.195+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:49:57.196+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:57.196+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:57.217+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:49:57.396+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:57.396+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:49:57.412+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:49:57.411+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:49:57.461+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.273 seconds
+[2026-03-12T19:50:10.423+0000] {processor.py:157} INFO - Started process (PID=3088) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:10.424+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:50:10.427+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:10.426+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:10.445+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:10.460+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:10.459+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:50:10.481+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:10.480+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:50:10.520+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.102 seconds
+[2026-03-12T19:50:17.464+0000] {processor.py:157} INFO - Started process (PID=3093) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:17.465+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:50:17.466+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:17.466+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:17.476+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:17.474+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 114, in <module>
+    join
+NameError: name 'join' is not defined
+[2026-03-12T19:50:17.478+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:17.522+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.062 seconds
+[2026-03-12T19:50:21.591+0000] {processor.py:157} INFO - Started process (PID=3103) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:21.592+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:50:21.593+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:21.593+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:21.605+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:21.603+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 114, in <module>
+    join = EmptyOperator()
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: BaseOperator.__init__() missing 1 required positional argument: 'task_id'
+[2026-03-12T19:50:21.605+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:21.631+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.045 seconds
+[2026-03-12T19:50:28.735+0000] {processor.py:157} INFO - Started process (PID=3113) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:28.746+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:50:28.748+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:28.748+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:28.772+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:29.004+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:29.002+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:50:29.034+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:29.034+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:50:29.080+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.351 seconds
+[2026-03-12T19:50:31.052+0000] {processor.py:157} INFO - Started process (PID=3118) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:31.054+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:50:31.054+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:31.054+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:31.069+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:31.092+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:31.091+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:50:31.113+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:31.112+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:50:31.151+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.103 seconds
+[2026-03-12T19:50:32.126+0000] {processor.py:157} INFO - Started process (PID=3123) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:32.128+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:50:32.129+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:32.129+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:32.134+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:32.133+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 117
+    )
+    ^
+SyntaxError: positional argument follows keyword argument
+[2026-03-12T19:50:32.134+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:32.175+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.053 seconds
+[2026-03-12T19:50:36.210+0000] {processor.py:157} INFO - Started process (PID=3128) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:36.211+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:50:36.212+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:36.212+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:36.218+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:36.217+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 117
+    )
+    ^
+SyntaxError: positional argument follows keyword argument
+[2026-03-12T19:50:36.218+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:36.245+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.039 seconds
+[2026-03-12T19:50:39.255+0000] {processor.py:157} INFO - Started process (PID=3133) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:39.257+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:50:39.258+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:39.258+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:39.264+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:39.263+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 117
+    )
+    ^
+SyntaxError: invalid syntax
+[2026-03-12T19:50:39.266+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:39.298+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.047 seconds
+[2026-03-12T19:50:58.860+0000] {processor.py:157} INFO - Started process (PID=3148) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:58.861+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:50:58.863+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:58.863+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:58.869+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:50:58.868+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 118
+    )
+    ^
+SyntaxError: invalid syntax
+[2026-03-12T19:50:58.870+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:50:58.902+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.052 seconds
+[2026-03-12T19:51:09.923+0000] {processor.py:157} INFO - Started process (PID=3153) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:51:09.925+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:51:09.927+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:51:09.926+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:51:09.937+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:51:09.936+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:51:09.938+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:51:09.972+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.055 seconds
+[2026-03-12T19:51:11.995+0000] {processor.py:157} INFO - Started process (PID=3158) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:51:11.996+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:51:11.997+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:51:11.997+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:51:12.004+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:51:12.003+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 118
+    )
+    ^
+SyntaxError: invalid syntax
+[2026-03-12T19:51:12.005+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:51:12.027+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.037 seconds
+[2026-03-12T19:51:20.103+0000] {processor.py:157} INFO - Started process (PID=3163) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:51:20.105+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:51:20.106+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:51:20.105+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:51:20.112+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:51:20.111+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:51:20.113+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:51:20.142+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.045 seconds
+[2026-03-12T19:51:46.341+0000] {processor.py:157} INFO - Started process (PID=3178) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:51:46.342+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:51:46.344+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:51:46.344+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:51:46.350+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:51:46.349+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:51:46.351+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:51:46.383+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.045 seconds
+[2026-03-12T19:51:56.668+0000] {processor.py:157} INFO - Started process (PID=3193) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:51:56.668+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:51:56.669+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:51:56.669+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:51:56.675+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:51:56.674+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:51:56.676+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:51:56.710+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.047 seconds
+[2026-03-12T19:52:07.734+0000] {processor.py:157} INFO - Started process (PID=3198) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:07.746+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:52:07.747+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:07.747+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:07.754+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:07.752+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:52:07.754+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:07.778+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.047 seconds
+[2026-03-12T19:52:13.848+0000] {processor.py:157} INFO - Started process (PID=3203) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:13.849+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:52:13.850+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:13.850+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:13.857+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:13.856+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:52:13.858+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:13.878+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.035 seconds
+[2026-03-12T19:52:16.869+0000] {processor.py:157} INFO - Started process (PID=3208) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:16.870+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:52:16.870+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:16.870+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:16.876+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:16.875+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:52:16.876+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:16.897+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.032 seconds
+[2026-03-12T19:52:23.106+0000] {processor.py:157} INFO - Started process (PID=3218) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:23.110+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:52:23.111+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:23.111+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:23.118+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:23.117+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:52:23.119+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:23.151+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.051 seconds
+[2026-03-12T19:52:25.117+0000] {processor.py:157} INFO - Started process (PID=3223) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:25.118+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:52:25.119+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:25.118+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:25.126+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:25.125+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:52:25.126+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:25.157+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.044 seconds
+[2026-03-12T19:52:27.198+0000] {processor.py:157} INFO - Started process (PID=3233) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:27.199+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:52:27.200+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:27.199+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:27.207+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:27.204+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 123
+    validate_all_extracts >> 
+                             ^
+SyntaxError: invalid syntax
+[2026-03-12T19:52:27.208+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:27.238+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.044 seconds
+[2026-03-12T19:52:41.277+0000] {processor.py:157} INFO - Started process (PID=3238) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:41.278+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:52:41.279+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:41.278+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:41.293+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:41.290+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:52:41.294+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:41.328+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.057 seconds
+[2026-03-12T19:52:44.344+0000] {processor.py:157} INFO - Started process (PID=3243) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:44.345+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:52:44.346+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:44.345+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:44.351+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:44.349+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:52:44.351+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:44.374+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.033 seconds
+[2026-03-12T19:52:47.439+0000] {processor.py:157} INFO - Started process (PID=3248) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:47.440+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:52:47.452+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:47.451+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:47.483+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:47.471+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:52:47.484+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:47.557+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.136 seconds
+[2026-03-12T19:52:51.459+0000] {processor.py:157} INFO - Started process (PID=3253) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:51.459+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:52:51.460+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:51.460+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:51.467+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:51.466+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:52:51.468+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:51.491+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.036 seconds
+[2026-03-12T19:52:55.674+0000] {processor.py:157} INFO - Started process (PID=3266) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:55.675+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:52:55.675+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:55.675+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:55.683+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:55.681+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:52:55.683+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:55.712+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.043 seconds
+[2026-03-12T19:52:57.740+0000] {processor.py:157} INFO - Started process (PID=3273) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:57.742+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:52:57.744+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:57.743+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:57.750+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:57.749+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:52:57.751+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:57.774+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.043 seconds
+[2026-03-12T19:52:58.766+0000] {processor.py:157} INFO - Started process (PID=3278) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:58.768+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:52:58.769+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:58.769+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:58.776+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:52:58.775+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:52:58.776+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:52:58.802+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.039 seconds
+[2026-03-12T19:53:00.822+0000] {processor.py:157} INFO - Started process (PID=3283) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:00.824+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:53:00.826+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:53:00.825+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:00.832+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:53:00.831+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:53:00.833+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:00.858+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.040 seconds
+[2026-03-12T19:53:04.877+0000] {processor.py:157} INFO - Started process (PID=3288) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:04.878+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:53:04.879+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:53:04.879+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:04.893+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:53:04.891+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:53:04.894+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:04.933+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.067 seconds
+[2026-03-12T19:53:11.948+0000] {processor.py:157} INFO - Started process (PID=3293) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:11.950+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:53:11.955+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:53:11.954+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:11.964+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:53:11.963+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:53:11.965+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:11.993+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.050 seconds
+[2026-03-12T19:53:23.076+0000] {processor.py:157} INFO - Started process (PID=3298) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:23.079+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:53:23.080+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:53:23.080+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:23.086+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:53:23.085+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 70
+    end = EmptyOperator(task_id="end", ,
+                                       ^
+SyntaxError: invalid syntax
+[2026-03-12T19:53:23.087+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:23.113+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.044 seconds
+[2026-03-12T19:53:26.326+0000] {processor.py:157} INFO - Started process (PID=3313) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:26.327+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:53:26.328+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:53:26.328+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:26.334+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:53:26.333+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:53:26.334+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:26.372+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.051 seconds
+[2026-03-12T19:53:28.394+0000] {processor.py:157} INFO - Started process (PID=3318) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:28.397+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:53:28.402+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:53:28.401+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:28.439+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:53:28.412+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:53:28.440+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:28.521+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.144 seconds
+[2026-03-12T19:53:29.460+0000] {processor.py:157} INFO - Started process (PID=3323) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:29.465+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:53:29.471+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:53:29.468+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:29.491+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:53:29.488+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:53:29.492+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:29.586+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.137 seconds
+[2026-03-12T19:53:59.778+0000] {processor.py:157} INFO - Started process (PID=3338) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:59.779+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:53:59.780+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:53:59.779+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:59.785+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:53:59.784+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:53:59.785+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:53:59.811+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.037 seconds
+[2026-03-12T19:54:25.919+0000] {processor.py:157} INFO - Started process (PID=3343) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:54:25.931+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:54:25.933+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:54:25.932+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:54:25.944+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:54:25.943+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:54:25.945+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:54:25.977+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.063 seconds
+[2026-03-12T19:54:56.375+0000] {processor.py:157} INFO - Started process (PID=3358) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:54:56.376+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:54:56.377+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:54:56.377+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:54:56.390+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:54:56.388+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/thursday_demo_dag_3.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/thursday_demo_dag_3.py", line 5, in <module>
+    from airflow.utils.trigger.rule import TriggerRule
+ModuleNotFoundError: No module named 'airflow.utils.trigger'
+[2026-03-12T19:54:56.391+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:54:56.422+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.052 seconds
+[2026-03-12T19:55:20.707+0000] {processor.py:157} INFO - Started process (PID=3373) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:55:20.708+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:55:20.709+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:55:20.709+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:55:20.725+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_2']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:55:20.916+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:55:20.915+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:55:20.937+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:55:20.937+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_2 to None, run_after=None
+[2026-03-12T19:55:20.985+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.282 seconds
+[2026-03-12T19:55:40.093+0000] {processor.py:157} INFO - Started process (PID=3388) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:55:40.094+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:55:40.095+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:55:40.095+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:55:40.115+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:55:40.285+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:55:40.284+0000] {manager.py:499} INFO - Created Permission View: %s
+[2026-03-12T19:55:40.301+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:55:40.300+0000] {manager.py:499} INFO - Created Permission View: %s
+[2026-03-12T19:55:40.311+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:55:40.311+0000] {manager.py:499} INFO - Created Permission View: %s
+[2026-03-12T19:55:40.312+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:55:40.311+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:55:40.328+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:55:40.328+0000] {dag.py:2963} INFO - Creating ORM DAG for thursday_demo_3
+[2026-03-12T19:55:40.329+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:55:40.329+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T19:55:40.370+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.281 seconds
+[2026-03-12T19:56:10.450+0000] {processor.py:157} INFO - Started process (PID=3409) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:56:10.463+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:56:10.466+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:56:10.464+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:56:10.487+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:56:10.597+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:56:10.596+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:56:10.682+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:56:10.682+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T19:56:10.712+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.272 seconds
+[2026-03-12T19:56:40.751+0000] {processor.py:157} INFO - Started process (PID=3430) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:56:40.753+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:56:40.756+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:56:40.756+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:56:40.781+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:56:40.825+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:56:40.824+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:56:40.843+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:56:40.843+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T19:56:40.882+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.135 seconds
+[2026-03-12T19:57:11.133+0000] {processor.py:157} INFO - Started process (PID=3455) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:57:11.135+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:57:11.136+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:57:11.135+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:57:11.149+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:57:11.189+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:57:11.189+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:57:11.203+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:57:11.203+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T19:57:11.243+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.114 seconds
+[2026-03-12T19:57:41.552+0000] {processor.py:157} INFO - Started process (PID=3472) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:57:41.554+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:57:41.555+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:57:41.555+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:57:41.573+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:57:41.604+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:57:41.604+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:57:41.616+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:57:41.616+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T19:57:41.651+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.104 seconds
+[2026-03-12T19:58:11.866+0000] {processor.py:157} INFO - Started process (PID=3487) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:58:11.874+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:58:11.874+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:58:11.874+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:58:11.887+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:58:11.919+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:58:11.919+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:58:11.931+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:58:11.931+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T19:58:11.958+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.097 seconds
+[2026-03-12T19:58:42.256+0000] {processor.py:157} INFO - Started process (PID=3502) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:58:42.257+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:58:42.258+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:58:42.258+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:58:42.276+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:58:42.313+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:58:42.313+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:58:42.327+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:58:42.326+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T19:58:42.361+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.108 seconds
+[2026-03-12T19:59:12.573+0000] {processor.py:157} INFO - Started process (PID=3517) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:59:12.574+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:59:12.576+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:59:12.575+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:59:12.589+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:59:12.623+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:59:12.623+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:59:12.637+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:59:12.636+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T19:59:12.670+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.102 seconds
+[2026-03-12T19:59:42.981+0000] {processor.py:157} INFO - Started process (PID=3532) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:59:42.983+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T19:59:42.984+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:59:42.983+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:59:42.996+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T19:59:43.030+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:59:43.030+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T19:59:43.042+0000] {logging_mixin.py:154} INFO - [2026-03-12T19:59:43.042+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T19:59:43.078+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.100 seconds
+[2026-03-12T20:00:13.718+0000] {processor.py:157} INFO - Started process (PID=3547) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:00:13.721+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T20:00:13.723+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:00:13.722+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:00:13.749+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:00:13.816+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:00:13.816+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T20:00:13.844+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:00:13.844+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T20:00:13.886+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.175 seconds
+[2026-03-12T20:00:44.011+0000] {processor.py:157} INFO - Started process (PID=3562) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:00:44.012+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T20:00:44.012+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:00:44.012+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:00:44.026+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:00:44.059+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:00:44.059+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T20:00:44.073+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:00:44.073+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T20:00:44.098+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.092 seconds
+[2026-03-12T20:01:14.319+0000] {processor.py:157} INFO - Started process (PID=3577) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:01:14.336+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T20:01:14.338+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:01:14.337+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:01:14.351+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:01:14.386+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:01:14.386+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T20:01:14.401+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:01:14.400+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T20:01:14.436+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.120 seconds
+[2026-03-12T20:01:44.747+0000] {processor.py:157} INFO - Started process (PID=3592) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:01:44.758+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T20:01:44.759+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:01:44.759+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:01:44.780+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:01:44.812+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:01:44.812+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T20:01:44.825+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:01:44.825+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T20:01:44.858+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.115 seconds
+[2026-03-12T20:02:15.057+0000] {processor.py:157} INFO - Started process (PID=3607) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:02:15.058+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T20:02:15.058+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:02:15.058+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:02:15.069+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:02:15.097+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:02:15.097+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T20:02:15.109+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:02:15.108+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T20:02:15.146+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.093 seconds
+[2026-03-12T20:02:45.561+0000] {processor.py:157} INFO - Started process (PID=3622) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:02:45.576+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T20:02:45.578+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:02:45.577+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:02:45.683+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:02:45.898+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:02:45.897+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T20:02:46.021+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:02:46.020+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T20:02:46.145+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.595 seconds
+[2026-03-12T20:03:16.555+0000] {processor.py:157} INFO - Started process (PID=3637) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:03:16.556+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T20:03:16.557+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:03:16.557+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:03:16.582+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:03:16.630+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:03:16.630+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T20:03:16.653+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:03:16.652+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T20:03:16.700+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.150 seconds
+[2026-03-12T20:03:46.922+0000] {processor.py:157} INFO - Started process (PID=3652) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:03:46.925+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T20:03:46.926+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:03:46.926+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:03:46.941+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:03:46.984+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:03:46.984+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T20:03:47.010+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:03:47.010+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T20:03:47.046+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.128 seconds
+[2026-03-12T20:04:17.210+0000] {processor.py:157} INFO - Started process (PID=3667) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:04:17.212+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T20:04:17.214+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:04:17.213+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:04:17.229+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:04:17.279+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:04:17.278+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T20:04:17.299+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:04:17.299+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T20:04:17.326+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.122 seconds
+[2026-03-12T20:04:47.623+0000] {processor.py:157} INFO - Started process (PID=3682) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:04:47.626+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T20:04:47.627+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:04:47.626+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:04:47.647+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:04:47.703+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:04:47.702+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T20:04:47.728+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:04:47.727+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T20:04:47.773+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.157 seconds
+[2026-03-12T20:05:18.032+0000] {processor.py:157} INFO - Started process (PID=3697) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:05:18.032+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T20:05:18.033+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:05:18.033+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:05:18.048+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:05:18.085+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:05:18.085+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T20:05:18.099+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:05:18.098+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T20:05:18.137+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.110 seconds
+[2026-03-12T20:05:48.492+0000] {processor.py:157} INFO - Started process (PID=3712) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:05:48.506+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T20:05:48.507+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:05:48.507+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:05:48.522+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:05:48.564+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:05:48.564+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T20:05:48.582+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:05:48.581+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T20:05:48.624+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.136 seconds
+[2026-03-12T20:06:18.786+0000] {processor.py:157} INFO - Started process (PID=3727) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:06:18.788+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T20:06:18.789+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:06:18.789+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:06:18.803+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:06:18.843+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:06:18.842+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T20:06:18.857+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:06:18.857+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T20:06:18.904+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.121 seconds
+[2026-03-12T20:06:49.282+0000] {processor.py:157} INFO - Started process (PID=3742) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:06:49.295+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T20:06:49.296+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:06:49.296+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:06:49.316+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:06:49.361+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:06:49.360+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T20:06:49.381+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:06:49.380+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T20:06:49.421+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.146 seconds
+[2026-03-12T20:07:19.597+0000] {processor.py:157} INFO - Started process (PID=3757) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:07:19.609+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T20:07:19.610+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:07:19.610+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:07:19.622+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:07:19.664+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:07:19.663+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T20:07:19.678+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:07:19.678+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T20:07:19.718+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.127 seconds
+[2026-03-12T20:07:50.032+0000] {processor.py:157} INFO - Started process (PID=3772) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:07:50.034+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T20:07:50.035+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:07:50.034+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:07:50.048+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:07:50.083+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:07:50.083+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T20:07:50.099+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:07:50.099+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T20:07:50.136+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.109 seconds
+[2026-03-12T20:08:20.523+0000] {processor.py:157} INFO - Started process (PID=3787) to work on /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:08:20.526+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/thursday_demo_dag_3.py for tasks to queue
+[2026-03-12T20:08:20.527+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:08:20.526+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:08:20.542+0000] {processor.py:839} INFO - DAG(s) dict_keys(['thursday_demo_3']) retrieved from /opt/airflow/dags/thursday_demo_dag_3.py
+[2026-03-12T20:08:20.589+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:08:20.588+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2026-03-12T20:08:20.610+0000] {logging_mixin.py:154} INFO - [2026-03-12T20:08:20.609+0000] {dag.py:3722} INFO - Setting next_dagrun for thursday_demo_3 to None, run_after=None
+[2026-03-12T20:08:20.637+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/thursday_demo_dag_3.py took 0.119 seconds

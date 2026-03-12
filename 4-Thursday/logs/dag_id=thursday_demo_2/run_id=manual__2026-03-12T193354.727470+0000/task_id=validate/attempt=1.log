@@ -1,0 +1,25 @@
+[2026-03-12T19:34:02.345+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: thursday_demo_2.validate manual__2026-03-12T19:33:54.727470+00:00 [queued]>
+[2026-03-12T19:34:02.359+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: thursday_demo_2.validate manual__2026-03-12T19:33:54.727470+00:00 [queued]>
+[2026-03-12T19:34:02.360+0000] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2026-03-12T19:34:02.389+0000] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): validate> on 2026-03-12 19:33:54.727470+00:00
+[2026-03-12T19:34:02.395+0000] {standard_task_runner.py:57} INFO - Started process 2326 to run task
+[2026-03-12T19:34:02.398+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'thursday_demo_2', 'validate', 'manual__2026-03-12T19:33:54.727470+00:00', '--job-id', '33', '--raw', '--subdir', 'DAGS_FOLDER/thursday_demo_dag_2.py', '--cfg-path', '/tmp/tmpet7zefrd']
+[2026-03-12T19:34:02.402+0000] {standard_task_runner.py:85} INFO - Job 33: Subtask validate
+[2026-03-12T19:34:02.458+0000] {task_command.py:416} INFO - Running <TaskInstance: thursday_demo_2.validate manual__2026-03-12T19:33:54.727470+00:00 [running]> on host 83df3c9dbf3e
+[2026-03-12T19:34:02.582+0000] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***_demo' AIRFLOW_CTX_DAG_ID='thursday_demo_2' AIRFLOW_CTX_TASK_ID='validate' AIRFLOW_CTX_EXECUTION_DATE='2026-03-12T19:33:54.727470+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-03-12T19:33:54.727470+00:00'
+[2026-03-12T19:34:02.584+0000] {logging_mixin.py:154} INFO - Validating all records
+[2026-03-12T19:34:02.587+0000] {taskinstance.py:1937} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 192, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 209, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/thursday_demo_dag_2.py", line 36, in validate_all_extracts
+    country_records = ti.xcom_pull(tasks_ids=f"extract_{country.lower()}")
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/utils/session.py", line 79, in wrapper
+    return func(*args, session=session, **kwargs)
+TypeError: TaskInstance.xcom_pull() got an unexpected keyword argument 'tasks_ids'
+[2026-03-12T19:34:02.605+0000] {taskinstance.py:1400} INFO - Marking task as UP_FOR_RETRY. dag_id=thursday_demo_2, task_id=validate, execution_date=20260312T193354, start_date=20260312T193402, end_date=20260312T193402
+[2026-03-12T19:34:02.627+0000] {standard_task_runner.py:104} ERROR - Failed to execute job 33 for task validate (TaskInstance.xcom_pull() got an unexpected keyword argument 'tasks_ids'; 2326)
+[2026-03-12T19:34:02.652+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2026-03-12T19:34:02.694+0000] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check

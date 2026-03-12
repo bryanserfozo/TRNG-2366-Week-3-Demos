@@ -1,0 +1,15 @@
+[2026-03-12T19:15:42.704+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: thursday_demo_1.extract_us manual__2026-03-12T19:15:40.694156+00:00 [queued]>
+[2026-03-12T19:15:42.727+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: thursday_demo_1.extract_us manual__2026-03-12T19:15:40.694156+00:00 [queued]>
+[2026-03-12T19:15:42.728+0000] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2026-03-12T19:15:42.819+0000] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): extract_us> on 2026-03-12 19:15:40.694156+00:00
+[2026-03-12T19:15:42.838+0000] {standard_task_runner.py:57} INFO - Started process 1539 to run task
+[2026-03-12T19:15:42.846+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'thursday_demo_1', 'extract_us', 'manual__2026-03-12T19:15:40.694156+00:00', '--job-id', '10', '--raw', '--subdir', 'DAGS_FOLDER/thursday_demo_dag.py', '--cfg-path', '/tmp/tmpm8_4u0kj']
+[2026-03-12T19:15:42.858+0000] {standard_task_runner.py:85} INFO - Job 10: Subtask extract_us
+[2026-03-12T19:15:42.979+0000] {task_command.py:416} INFO - Running <TaskInstance: thursday_demo_1.extract_us manual__2026-03-12T19:15:40.694156+00:00 [running]> on host 83df3c9dbf3e
+[2026-03-12T19:15:43.196+0000] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***_demo' AIRFLOW_CTX_DAG_ID='thursday_demo_1' AIRFLOW_CTX_TASK_ID='extract_us' AIRFLOW_CTX_EXECUTION_DATE='2026-03-12T19:15:40.694156+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-03-12T19:15:40.694156+00:00'
+[2026-03-12T19:15:43.198+0000] {logging_mixin.py:154} INFO - Extracting data from US
+[2026-03-12T19:15:47.153+0000] {logging_mixin.py:154} INFO -     Extracted 4942 records from the US
+[2026-03-12T19:15:47.153+0000] {python.py:194} INFO - Done. Returned value was: {'country': 'US', 'records': 4942}
+[2026-03-12T19:15:47.198+0000] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=thursday_demo_1, task_id=extract_us, execution_date=20260312T191540, start_date=20260312T191542, end_date=20260312T191547
+[2026-03-12T19:15:47.255+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2026-03-12T19:15:47.280+0000] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check
